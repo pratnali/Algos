@@ -23,6 +23,8 @@ void tobin(unsigned n){
 
 int main(int argc, const char * argv[]) {
     
+    
+    
     /*vector<int> output;
     GenerateNumbers(1, output);
     copy(output.begin(), output.end(), ostream_iterator<int>(cout, "  "));
